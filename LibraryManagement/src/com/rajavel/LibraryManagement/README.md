@@ -5,10 +5,11 @@
  - Used ArrayList to get the values from database and display it to the user.
  # Features
  - Admin can add new BookDetails.
- - user can Serach Book name or BookId 
+ - user can Search Book name or BookId.
+ - User can search Book this book arr Avilable or NotAvilable Status show.
  - Due Date the book in maximum 15 Days.
  - Return the book after due Date to paid fine amount per day 15 ruppes. 
  # Checks
-  - Validation for contact number,name,mailId.
+  - Validation for name,mailId.
  # POJO
   - Book,User and Booktransaction class in model package.
